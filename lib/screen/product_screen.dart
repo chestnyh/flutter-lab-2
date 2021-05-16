@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application/model/product.dart';
-// import 'package:flutter_application/screen/navigation_drawer.dart';
 import 'package:flutter_application/util/constants.dart';
 import 'package:flutter_application/widget/custom_app_bar.dart';
 
